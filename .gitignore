@@ -11,5 +11,5 @@
 /build
 /captures
 .externalNativeBuild
-/.app/google-serices.json
+/app/google-serices.json
 
